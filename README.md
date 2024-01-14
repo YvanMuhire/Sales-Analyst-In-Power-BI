@@ -1,1 +1,2 @@
 # Sales-Analyst-In-Power-BI
+This Power BI project features stunning and effective dashboards.  I began by preparing and cleaning our data. I created several dashboards, with the first one showcasing products categorized by different categories.  It provides insights into sales across various cities and states over different years, displaying the quantity sold. other pages in the dashboard show sales performance of each product within every category over the years. To enhance the analytical capabilities.
